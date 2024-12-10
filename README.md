@@ -14,6 +14,8 @@ I learned Python and Rust languages myself and I am currently learning C and Mac
 
 <p align="center">
   <code><a href="https://www.python.org"><img title="Python" height="25" src="assets/images/python-original.svg"></a></code>
+  <code><a href="https://www.rust-lang.org"><img title="Rust" height="25" src="assets/images/rust.png"></a></code>
+  <code><a href="https://www.jupyter.org"><img title="Jupyter" height="25" src="assets/images/jupyter.svg"></a></code>
   <code><a href="https://scikit-learn.org/"><img title="Scikit-Learn" height="25" src="assets/images/scikit-learn.png"></a></code>  
   <code><a href="https://github.com"><img title="GitHub" height="25" src="assets/images/github.svg"></a></code> 
 </p>

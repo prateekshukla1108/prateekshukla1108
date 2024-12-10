@@ -4,9 +4,9 @@ Howdy!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-I'm J.X. Areas: software engineer & tech enthusiast, always learning new skills and polishing the ones I have. 
+I'm Prateek: Student, tinkerer and deep learning enthusiast, I love neural networks and transformers
 
-I love learning about a wide variety of topics, such as: Web & Mobile Development, Data Science, Business Intelligence & Software Architecture.
+I learned Python and Rust languages myself and I am currently learning C and Machine learning
  
 <p align = "center">
   

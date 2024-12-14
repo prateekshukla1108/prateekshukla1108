@@ -25,9 +25,9 @@ I learned Python and Rust languages myself and I am currently learning C and Mac
 <p align = "center">
     <img src = "https://github-readme-stats-rongronggg9.vercel.app/api?username=prateekshukla1108&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=prateekshukla1108&theme=chartreuse-dark&hide_border=true" width = 400>
-  <img  src="https://github-readme-stats-jxareas.vercel.app/api/top-langs/?username=prateekshukla1108&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats-prateekshukla1108.vercel.app/api/top-langs/?username=prateekshukla1108&hide=html,cmake,css,scss,powershell,assembly,procfile,shell,less,jupyter%20notebook&theme=chartreuse-dark&langs_count=11&layout=compact&hide_border=true" width = 400>
   
-  <img src="https://github-readme-stats-jxareas.vercel.app/api/wakatime?username=prateekshukla1108&hide_border=true&theme=chartreuse-dark&langs_count=9&range=last_7_days" width = 420 >
+  <img src="https://github-readme-stats-prateekshukla1108.vercel.app/api/wakatime?username=prateekshukla1108&hide_border=true&theme=chartreuse-dark&langs_count=9&range=last_7_days" width = 420 >
 
 </p>
 

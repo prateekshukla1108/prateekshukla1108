@@ -4,9 +4,9 @@ Howdy!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-I'm Prateek: Student, tinkerer and deep learning enthusiast, I love neural networks and transformers
+I'm Prateek: Student, tinkerer and deep learning enthusiast, I love solving math and real life problems
 
-I learned Python and Rust languages myself and I am currently learning C and Machine learning
+I am currently exited about AI and I am currently learning C++ and Deep Learning.
  
 <p align = "center">
   
@@ -16,7 +16,6 @@ I learned Python and Rust languages myself and I am currently learning C and Mac
   <code><a href="https://www.python.org"><img title="Python" height="25" src="assets/images/python-original.svg"></a></code>
   <code><a href="https://www.rust-lang.org"><img title="Rust" height="25" src="assets/images/rust.png"></a></code>
   <code><a href="https://www.jupyter.org"><img title="Jupyter" height="25" src="assets/images/jupyter.svg"></a></code>
-  <code><a href="https://scikit-learn.org/"><img title="Scikit-Learn" height="25" src="assets/images/scikit-learn.png"></a></code>  
   <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img title="C" height="25" src="assets/images/c.svg"></a></code>  
   <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img title="C++" height="25" src="assets/images/cpp.svg"></a></code>  
   <code><a href="https://github.com"><img title="GitHub" height="25" src="assets/images/github.svg"></a></code> 

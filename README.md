@@ -1,12 +1,14 @@
 
 <h1 align="center">
-Howdy!
+Hello!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-I'm Prateek: Student, tinkerer and deep learning enthusiast, I love solving math and real life problems
+I'm Prateek: Developer, ML Engineer and Student of Mathematics
 
-I am currently exited about AI and I am currently learning C++ and Deep Learning.
+I am love programming in C, C++, Python and Rust
+
+I am currently learning CUDA Programming and Pytorch.
  
 <p align = "center">
   

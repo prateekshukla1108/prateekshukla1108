@@ -8,7 +8,7 @@ I'm Prateek: Developer, ML Engineer and Student of Mathematics
 
 I am love programming in C, C++, Python, Rust and CUDA C
 
-I am currently learning CUDA Programming.
+I am currently learning JAX and triton
  
 <p align = "center">
   

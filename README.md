@@ -21,6 +21,7 @@ I am currently learning JAX and triton
   <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img title="C" height="25" src="assets/images/c.svg"></a></code>  
   <code><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img title="C++" height="25" src="assets/images/cpp.svg"></a></code>  
   <code><a href="https://github.com"><img title="GitHub" height="25" src="assets/images/github.svg"></a></code> 
+  <code><a href="https://developer.nvidia.com/cuda-zone"><img title="CUDA" height="25" src="assets/images/cuda.png"></a></code> 
 </p>
 
 

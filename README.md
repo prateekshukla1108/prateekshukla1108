@@ -8,7 +8,7 @@ I'm Prateek: Developer, ML Engineer and Student of Mathematics
 
 I am love programming in C, C++, Python, Rust and CUDA C
 
-I am currently learning to write file systems
+I am currently learning to write efficient inference pipelines
  
 <p align = "center">
   

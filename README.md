@@ -33,13 +33,3 @@ I am currently learning to write efficient inference pipelines
 </p>
 
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prateekshukla1108&theme=chartreuse-dark" width="100%"/>
-
-
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=prateekshukla1108&label=Profile%20views&style=for-the-badge&color=030303" alt="prateekshukla1108's profile views" />
-</p>
-
-
-  
-

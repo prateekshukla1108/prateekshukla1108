@@ -8,7 +8,7 @@ I'm Prateek: CUDA Developer, Deep Learning Engineer and a lover of high performa
 
 I love writing compilers in MLIR and learning how internals of Inference engines and Deep Learning Libraries work
 
-I am currently working on writing a compiler for distributed training and inference which takes the best of all the inference engines and deep learning libraries 
+I am currently working on optimizing inference time compute utilization
  
 <p align = "center">
   
